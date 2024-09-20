@@ -7,7 +7,7 @@ Enthusiastic and versatile individual with a passion for coding and problem-solv
 Skills: HTML / CSS / Django / Python / Postgresql / Java / Git / Gitlab / Github / Laravel / Filament / Mysql
 
 - 🔭 I am doing a intership as a software developer at xentral method sdn bhd
-- 🌱 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Taziim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TariqulislamTazim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/__Codim__)  
