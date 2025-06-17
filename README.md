@@ -1,7 +1,7 @@
 ## Hi there 👋, My name is Tazim
 ### Software Engineer 
 ![Software Engineering  Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Taziim&color=red)
 
 Enthusiastic and versatile individual with a passion for coding and problem-solving. Skilled in problem-solving and experienced in tackling complex software development challenges. Enjoys the process of continuous learning and exploring new technologies. Thrives in a collaborative team environment and is driven by the pursuit of creating innovative and efficient solutions. Excited to contribute expertise in coding, problem-solving, and complex software development to drive impactful projects and deliver high-quality results.
 
