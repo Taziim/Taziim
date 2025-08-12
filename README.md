@@ -29,5 +29,4 @@ Skills: HTML / CSS / JavaScript / Python / Postgresql / Java / Git / MongoDb / G
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=react-dark)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Taziim](https://www.linkedin.com/in/tariqulislamtazim/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqulislamtazim)
