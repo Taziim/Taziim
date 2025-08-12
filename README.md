@@ -15,18 +15,6 @@ Skills: HTML / CSS / JavaScript / Python / Postgresql / Java / Git / MongoDb / G
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Taziim)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true)  
-
-![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact)
-
-
-# Hi there! 👋 I'm [Your Name]
-
-## 🚀 About Me
-- 🔭 Currently working on amazing projects
-- 🌱 Learning new technologies
-- 💬 Ask me about JavaScript, React, Node.js
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=radical)
 
