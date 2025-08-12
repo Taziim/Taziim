@@ -21,6 +21,6 @@ Skills: HTML / CSS / JavaScript / Python / Postgresql / Java / Git / MongoDb / G
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim)
 
-![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact)
 
 
