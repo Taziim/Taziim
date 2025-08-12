@@ -20,3 +20,35 @@ Skills: HTML / CSS / JavaScript / Python / Postgresql / Java / Git / MongoDb / G
 ![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact)
 
 
+# Hi there! 👋 I'm [Your Name]
+
+## 🚀 About Me
+- 🔭 Currently working on amazing projects
+- 🌱 Learning new technologies
+- 💬 Ask me about JavaScript, React, Node.js
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=dark)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Taziim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=react-dark)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Taziim)
+
+![Profile views](https://komarev.com/ghpvc/?username=Taziim&color=0e75b6&style=flat)
+
