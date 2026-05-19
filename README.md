@@ -1,32 +1,105 @@
-## Hi there 👋, My name is Tazim
-### Software Engineer 
-![Software Engineering  Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-![Profile views](https://komarev.com/ghpvc/?username=Taziim&color=red)
+## Hi there 👋, I'm Tazim  
+### 💻 Software Engineer | Full Stack Developer | Cloud Enthusiast  
 
-Enthusiastic and versatile individual with a passion for coding and problem-solving. Skilled in problem-solving and experienced in tackling complex software development challenges. Enjoys the process of continuous learning and exploring new technologies. Thrives in a collaborative team environment and is driven by the pursuit of creating innovative and efficient solutions. Excited to contribute expertise in coding, problem-solving, and complex software development to drive impactful projects and deliver high-quality results.
+![Banner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Skills: HTML / CSS / JavaScript / Python / Postgresql / Java / Git / MongoDb / Github / Laravel / Filament / Mysql
+![Profile Views](https://komarev.com/ghpvc/?username=Taziim&color=blue)
 
-- 🔭 Ex intern as a software developer at xentral method sdn bhd
-- 🌱 I’m currently learning MERN Stack and Cloud computing
-- 📫 How to reach me **tariqulislamtazim99@gmail.com**
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Taziim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/TariqulislamTazim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/__Codim__)  
+## 🚀 About Me
+
+I am a passionate Software Engineer with strong interest in building scalable web applications and solving complex software problems.
+
+I enjoy:
+- Writing clean and efficient code
+- Learning new technologies
+- Building real-world projects
+- Working in collaborative team environments
+
+Currently focused on **Full Stack Development (MERN)** and **Cloud Computing**.
+
+---
+
+## 🧠 Skills
+
+### 💻 Programming Languages
+HTML • CSS • JavaScript • Python • Java • PHP
+
+### 🌐 Frontend
+React • Tailwind CSS (learning)
+
+### ⚙️ Backend
+Node.js • Express • Laravel • REST APIs • Filament
+
+### 🗄️ Database
+MySQL • PostgreSQL • MongoDB
+
+### 🧰 Tools & Platforms
+Git • GitHub • Linux • Postman
+
+### ☁️ DevOps / Learning
+Cloud Computing • CI/CD • Docker (learning)
+
+---
+
+## 🏆 Experience
+
+- 🔭 Former Software Developer Intern at Xentral Methods Sdn Bhd  
+- 🧩 Worked on backend systems and Laravel-based applications  
+- 🤝 Collaborated in team-based development environments  
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight)
+
+---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=dark)
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Taziim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Taziim&theme=tokyonight&no-frame=true&margin-w=4)
+
+---
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=react-dark)
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tariqulislamtazim)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=tokyo-night)
+
+---
+
+## 📌 Current Goals
+
+- Become a Full Stack Developer (MERN)
+- Learn Cloud Computing (AWS basics → advanced)
+- Improve System Design knowledge
+- Contribute to Open Source projects
+- Build production-level projects
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **tariqulislamtazim99@gmail.com**
+- 💼 LinkedIn: [TariqulislamTazim](https://www.linkedin.com/in/TariqulislamTazim/)
+- 🐙 GitHub: [Taziim](https://github.com/Taziim)
+- 🐦 Twitter: [__Codim__](https://twitter.com/__Codim__)
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real-world applications and automating repetitive tasks with code 🚀
