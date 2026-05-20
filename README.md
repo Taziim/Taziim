@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋+I'm+Tazim;Software+Engineer;Full+Stack+Developer;Cloud+Computing+Enthusiast;Backend+Developer;DevOps+Learner" />
 </p>
 
-<h3 align="center">💻 Software Engineer | Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">💻 Software Engineer  | DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -25,7 +25,7 @@ I am a passionate and enthusiastic Software Engineer who enjoys building scalabl
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,react,nodejs,express,laravel,mongodb,mysql,postgres,git,github,docker,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,react,nodejs,express,laravel,mongodb,mysql,postgres,git,github,docker,linux,vscode&perline=6" />
 </p>
 
 ---
