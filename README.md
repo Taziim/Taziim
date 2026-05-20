@@ -51,14 +51,6 @@ I am a passionate and enthusiastic Software Engineer who enjoys building scalabl
 
 ---
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github.com/Taziim/&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
