@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋+I'm+Tazim;Software+Engineer;Full+Stack+Developer;Cloud+Computing+Enthusiast;Backend+Developer;DevOps+Learner" />
-</p>
 
 <h3 align="center">💻 Software Engineer  | DevOps Enthusiast</h3>
 
