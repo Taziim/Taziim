@@ -17,7 +17,6 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
 ---
 ## 🧰 Tech Stack & Ecosystem
 ### 💻 Programming Languages
-### 💻 Languages & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -25,14 +24,14 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
-### ⚙️ Backend & Runtimes
+ ⚙️ Backend & Runtimes
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-### ☁️ DevOps & Cloud Native
+ ☁️ DevOps & Cloud Native
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
@@ -41,7 +40,7 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
-### 📊 Observability & Data
+ 📊 Observability & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
@@ -53,14 +52,24 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
 
 ## 📈 GitHub Metrics & Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages">
+  <img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="100%">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Taziim&theme=tokyonight&no-frame=true&row=1&column=7">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=tokyo-night&hide_border=true">
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=Taziim&theme=tokyonight&no-frame=true&row=1&column=7" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=tokyo-night&hide_border=true" />
+
 ---
 
 ## 🏗️ Featured Engineering Projects
