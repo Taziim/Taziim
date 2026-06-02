@@ -2,7 +2,7 @@
 ### 🚀 Software Engineer | Building Scalable Infrastructure & High-Performance Apps
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/tariqulislamtazim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -10,9 +10,9 @@
 ---
 
 ## 🛠️ About Me
-I sit at the intersection of **Software Engineering** and **Cloud Infrastructure**. I don't just write clean, production-grade code—I build the automated pipelines and resilient architectures that deploy it at scale. 
+I sit at the intersection of **Software Engineering** and **DevOps Infrastructure**. I don't just write clean, production-grade code—I build the automated pipelines and resilient architectures that deploy it at scale. 
 
-- 🔭 **Current Focus:** Optimizing Kubernetes cluster costs and automating GitOps workflows.
+- 🔭 **Current Focus:** DevOps tools and Implementation
 - ⚡ **Core Philosophy:** If you have to do it twice, automate it. If it’s not monitored, it doesn’t exist.
 - 🧠 **Learning & Experimenting:** Chaos Engineering (Gremlin/ChaosMesh) and Advanced eBPF tracing.
 
@@ -83,10 +83,3 @@ I sit at the intersection of **Software Engineering** and **Cloud Infrastructure
 
 ---
 
-## 🤝 Open Source & Contributions
-I actively contribute back to the tools I rely on daily. Maintaining infrastructure means understanding the source code under the hood.
-
-```text
-▲ Contributed patches to [Popular Tool/Library, e.g., Terraform AWS Provider] (Fixed memory leak in data source)
-▲ Regular reviewer and contributor in local Cloud Native communities
-▲ Maintainer of [Your Open Source Tool Name] - a CLI tool to clean up orphaned cloud resources
