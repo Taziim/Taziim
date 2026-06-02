@@ -1,101 +1,92 @@
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" />
+# Hi there, I'm Tariqul Islam 👋 
+### 🚀 Software Engineer | Building Scalable Infrastructure & High-Performance Apps
 
-  <a href="https://www.youtube.com/@YOUR_CHANNEL">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Your+YouTube+Channel" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="YOUR_NEWSLETTER_LINK">
-    <img src="YOUR_BANNER_IMAGE_URL" width="70%" />
-  </a>
-</div>
-
----
-
-# 👋 Hi, I'm YOUR NAME
-
-<div align="center">
-
-💼 I am currently a **YOUR ROLE** at **YOUR COMPANY**  
-✍️ Creator of **YOUR BLOG / NEWSLETTER**  
-🎓 Studied **YOUR DEGREE / UNIVERSITY**
-
-</div>
-
----
-
-## 📊 Profile Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME" />
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 🛠️ About Me
+I sit at the intersection of **Software Engineering** and **Cloud Infrastructure**. I don't just write clean, production-grade code—I build the automated pipelines and resilient architectures that deploy it at scale. 
 
-<p align="center">
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME" />
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME" />
-  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME" />
+- 🔭 **Current Focus:** Optimizing Kubernetes cluster costs and automating GitOps workflows.
+- ⚡ **Core Philosophy:** If you have to do it twice, automate it. If it’s not monitored, it doesn’t exist.
+- 🧠 **Learning & Experimenting:** Chaos Engineering (Gremlin/ChaosMesh) and Advanced eBPF tracing.
+
+---
+
+## 🧰 Tech Stack & Ecosystem
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+</p>
+
+### ☁️ DevOps & Cloud Native
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GH Actions">
+  <img src="https://img.shields.io/badge/ArgoCD-FF7E0F?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+</p>
+
+### 📊 Observability & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 📈 GitHub Metrics & Analytics
 
-### 💻 Frontend
-`HTML` `CSS` `JavaScript` `React` `Next.js`
+*Note: Change `yourusername` in the URLs below to generate your actual real-time data.*
 
-### ⚙️ Backend
-`Node.js` `Express` `Laravel` `PHP`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages">
+</p>
 
-### 🗄️ Database
-`MySQL` `MongoDB` `PostgreSQL`
-
-### ☁️ DevOps / Tools
-`Docker` `Linux` `Git` `GitHub` `CI/CD`
-
----
-
-## 💼 Experience
-
-- Software Engineer / Intern at **Company Name**
-- Built backend systems & REST APIs
-- Worked on database design & scalable systems
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak">
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🏗️ Featured Engineering Projects
 
-- 🌐 Portfolio: YOUR_LINK  
-- ✍️ Blog: YOUR_BLOG  
-- 💼 LinkedIn: YOUR_LINK  
-- 📧 Email: YOUR_EMAIL  
-- ▶️ YouTube: YOUR_LINK  
+### 🛠️ [Project Name 1] | GitOps EKS Production Blueprint
+*An enterprise-ready, zero-trust infrastructure pipeline deploying an auto-scaling microservices application.*
+- **DevOps Core:** Provisioned AWS EKS using **Terraform** modules with remote state locking. Implemented **ArgoCD** for declarative GitOps CD.
+- **Software Core:** Built a high-throughput telemetry ingestion API in **Go** using the Gin framework.
+- **Impact:** Reduced environment drift to 0% and sliced deployment rollouts from 25 minutes to under 3 minutes.
+- `Terraform` `Kubernetes` `Go` `ArgoCD` `Prometheus`
 
----
-
-## 🎯 Goals
-
-- 🚀 Become Full Stack + Cloud Engineer  
-- ☁️ Master DevOps & AWS  
-- 🧠 Improve System Design  
-- 💻 Contribute to Open Source  
-
----
-
-## ❤️ Support
-
-**[Buy Me a Coffee](YOUR_LINK)**  
-**[Donate Link](YOUR_LINK)**  
+### 🔧 [Project Name 2] | Dynamic Multi-Tenant CI/CD Engine
+*Custom automation runner architecture built to handle isolated concurrent code compilation pipelines.*
+- **DevOps Core:** Designed isolated **Docker-in-Docker (DinD)** build environments triggered dynamically via **GitHub Actions** webhooks.
+- **Software Core:** Built the orchestrator service in **Python (FastAPI)** backed by **Redis** for task queuing.
+- **Impact:** Safely handled 500+ concurrent builds daily with automatic resource cleanup, saving 35% in cloud compute overhead.
+- `Python` `Docker` `GitHub Actions` `Redis` `FastAPI`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🤝 Open Source & Contributions
+I actively contribute back to the tools I rely on daily. Maintaining infrastructure means understanding the source code under the hood.
+
+```text
+▲ Contributed patches to [Popular Tool/Library, e.g., Terraform AWS Provider] (Fixed memory leak in data source)
+▲ Regular reviewer and contributor in local Cloud Native communities
+▲ Maintainer of [Your Open Source Tool Name] - a CLI tool to clean up orphaned cloud resources
