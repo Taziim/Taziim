@@ -53,10 +53,6 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
 ## 📈 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true" width="48%">
