@@ -1,44 +1,40 @@
-
-<h3 align="center">💻 Software Engineer  | DevOps Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 🚀 About Me
-
-I am a passionate and enthusiastic Software Engineer who enjoys building scalable applications and solving real-world problems through technology.
-
-- 🌱 Currently learning **MERN Stack, Cloud Computing, and DevOps**
-- 💻 Interested in **Backend Development, System Design, and CI/CD**
-- 🚀 Passionate about creating efficient and scalable software systems
-- 🤝 Enjoy collaborating in team-based development environments
-- 🎯 Goal: Become a highly skilled Full Stack & Cloud Engineer
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
+<a href="https://www.youtube.com/@codecareergolpo5638">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Code+%26+Career+Golpo+YouTube" />
+</a>
+</div>
 
 ---
 
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,react,nodejs,express,laravel,mongodb,mysql,postgres,git,github,docker,linux,vscode&perline=6" />
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512">
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="70%">
+</a>
+</div>
 
 ---
 
-## 💼 Experience
+# 👋 Hi, I am [Your Name]
 
-- 🔭 Former Software Developer Intern at **Xentral Methods Sdn Bhd**
-- 🛠️ Worked on Laravel backend systems and web applications
-- ⚡ Experience with REST APIs, databases, and backend architecture
+<div align="center">
+
+I am a passionate **Software Engineer / Full Stack Developer / DevOps Enthusiast**  
+I enjoy building scalable systems and solving real-world problems.
+
+- 💻 Software Engineering Student / Engineer  
+- ☁️ Interested in Cloud & DevOps  
+- 🚀 Love building full-stack applications  
+- 📚 Learning system design & scalable architecture  
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -46,63 +42,51 @@ I am a passionate and enthusiastic Software Engineer who enjoys building scalabl
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🧠 Skills
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Taziim&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+- Frontend: HTML, CSS, JavaScript, React, Next.js  
+- Backend: Node.js, Express, Laravel, PHP  
+- Database: MongoDB, MySQL, PostgreSQL  
+- DevOps: Docker, Linux, Git, CI/CD  
+- Languages: Java, C++, Python  
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github.com/Taziim/Taziim/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🎯 Current Goals
-
-- ☁️ Master Cloud Computing and DevOps
-- 🚀 Build scalable full-stack applications
-- 📚 Improve Data Structures & Algorithms
-- ⚡ Learn advanced System Design
-- 🤝 Contribute to Open Source Projects
+- Software Developer Intern at Xentral Methods Sdn Bhd  
+- Backend development using Laravel & REST APIs  
+- Worked on database design & system architecture  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Taziim">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/TariqulislamTazim/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:tariqulislamtazim99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- GitHub  
+- LinkedIn  
+- Email  
+- YouTube  
+- Medium / Blog  
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 Goals
 
-I enjoy turning ideas into real-world software systems and automating workflows using modern development tools 🚀
+- Become a strong Full Stack + Cloud Engineer  
+- Contribute to Open Source  
+- Improve System Design & DSA  
+- Build scalable production-level apps  
+
+---
+
+## 💖 Support
+
+Donate if you wish to support:
+
+**[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)**  
+**[Buy Me a Coffee](https://www.buymeacoffee.com/sumontasahi)**
