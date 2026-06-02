@@ -1,92 +1,101 @@
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
-<a href="https://www.youtube.com/@codecareergolpo5638">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Code+%26+Career+Golpo+YouTube" />
-</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" />
+
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Your+YouTube+Channel" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512">
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="70%">
-</a>
+  <a href="YOUR_NEWSLETTER_LINK">
+    <img src="YOUR_BANNER_IMAGE_URL" width="70%" />
+  </a>
 </div>
 
 ---
 
-# 👋 Hi, I am [Your Name]
+# 👋 Hi, I'm YOUR NAME
 
 <div align="center">
 
-I am a passionate **Software Engineer / Full Stack Developer / DevOps Enthusiast**  
-I enjoy building scalable systems and solving real-world problems.
-
-- 💻 Software Engineering Student / Engineer  
-- ☁️ Interested in Cloud & DevOps  
-- 🚀 Love building full-stack applications  
-- 📚 Learning system design & scalable architecture  
+💼 I am currently a **YOUR ROLE** at **YOUR COMPANY**  
+✍️ Creator of **YOUR BLOG / NEWSLETTER**  
+🎓 Studied **YOUR DEGREE / UNIVERSITY**
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Profile Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME" />
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME" />
+  <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME" />
 </p>
 
 ---
 
-## 🧠 Skills
+## 🧰 Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React, Next.js  
-- Backend: Node.js, Express, Laravel, PHP  
-- Database: MongoDB, MySQL, PostgreSQL  
-- DevOps: Docker, Linux, Git, CI/CD  
-- Languages: Java, C++, Python  
+### 💻 Frontend
+`HTML` `CSS` `JavaScript` `React` `Next.js`
+
+### ⚙️ Backend
+`Node.js` `Express` `Laravel` `PHP`
+
+### 🗄️ Database
+`MySQL` `MongoDB` `PostgreSQL`
+
+### ☁️ DevOps / Tools
+`Docker` `Linux` `Git` `GitHub` `CI/CD`
 
 ---
 
 ## 💼 Experience
 
-- Software Developer Intern at Xentral Methods Sdn Bhd  
-- Backend development using Laravel & REST APIs  
-- Worked on database design & system architecture  
+- Software Engineer / Intern at **Company Name**
+- Built backend systems & REST APIs
+- Worked on database design & scalable systems
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-- GitHub  
-- LinkedIn  
-- Email  
-- YouTube  
-- Medium / Blog  
+- 🌐 Portfolio: YOUR_LINK  
+- ✍️ Blog: YOUR_BLOG  
+- 💼 LinkedIn: YOUR_LINK  
+- 📧 Email: YOUR_EMAIL  
+- ▶️ YouTube: YOUR_LINK  
 
 ---
 
 ## 🎯 Goals
 
-- Become a strong Full Stack + Cloud Engineer  
-- Contribute to Open Source  
-- Improve System Design & DSA  
-- Build scalable production-level apps  
+- 🚀 Become Full Stack + Cloud Engineer  
+- ☁️ Master DevOps & AWS  
+- 🧠 Improve System Design  
+- 💻 Contribute to Open Source  
 
 ---
 
-## 💖 Support
+## ❤️ Support
 
-Donate if you wish to support:
+**[Buy Me a Coffee](YOUR_LINK)**  
+**[Donate Link](YOUR_LINK)**  
 
-**[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)**  
-**[Buy Me a Coffee](https://www.buymeacoffee.com/sumontasahi)**
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
