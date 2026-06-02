@@ -1,11 +1,10 @@
 # Hi there, I'm Tariqul Islam 👋 
 ### 🚀 Software Engineer | Building Scalable Infrastructure & High-Performance Apps
-<img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
-<p align="left">
   <a href="https://linkedin.com/in/tariqulislamtazim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tariqulislamtazim99@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
+<p align="left">
 ---
 
 ## 🛠️ About Me
@@ -16,9 +15,7 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
 - 🧠 **Learning & Experimenting:** Chaos Engineering and Advanced DevOps concept.
 
 ---
-
 ## 🧰 Tech Stack & Ecosystem
-
 ### 💻 Programming Languages
 ### 💻 Languages & Frontend
 <p align="left">
@@ -28,7 +25,6 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
-
 ### ⚙️ Backend & Runtimes
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -36,7 +32,6 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
-
 ### ☁️ DevOps & Cloud Native
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
@@ -46,7 +41,6 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
 </p>
-
 ### 📊 Observability & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
@@ -58,18 +52,15 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
 ---
 
 ## 📈 GitHub Metrics & Analytics
-
-*Note: Change `yourusername` in the URLs below to generate your actual real-time data.*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" alt="Top Languages">
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak">
 </p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Taziim&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=tokyo-night&hide_border=true" />
 ---
 
 ## 🏗️ Featured Engineering Projects
