@@ -5,7 +5,6 @@
 </p>
 <img src="https://komarev.com/ghpvc/?username=Taziim&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
 <p align="left">
----
 
 ## 🛠️ About Me
 I sit at the intersection of **Software Engineering** and **DevOps Infrastructure**. I don't just write clean, production-grade code—I build the automated pipelines and resilient architectures that deploy it at scale. 
