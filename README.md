@@ -47,16 +47,14 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
 
----
-
 ## 📈 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true" width="50%">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="50%">
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Taziim&theme=tokyonight&no-frame=true&row=1&column=7">
