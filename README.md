@@ -49,15 +49,12 @@ I sit at the intersection of **Software Engineering** and **DevOps Infrastructur
 
 ## 📈 GitHub Metrics & Analytics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taziim&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taziim&layout=compact&theme=tokyonight&hide_border=true" width="50%">
 </p>
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="50%">
-</p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Taziim&theme=tokyonight&no-frame=true&row=1&column=7">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taziim&theme=tokyonight&hide_border=true" width="50%">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taziim&theme=tokyo-night&hide_border=true">
